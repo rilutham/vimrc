@@ -8,7 +8,7 @@ execute pathogen#infect()
 
 filetype plugin indent on
 syntax on
-set shell=/bin/zsh
+set shell=/bin/bash
 set guifont=Menlo:h14
 set nocompatible
 set modelines=0
